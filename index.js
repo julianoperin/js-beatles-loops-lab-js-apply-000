@@ -34,7 +34,15 @@ function johnLennonFacts(facts) {
 
 ///////// THIRD PART
 
-
+function iLoveTheBeatles(i) {
+  var store = [];
+  do {
+    store.push("I love the Beatles!")
+    i++;
+  } while (i < 15);
+  return store;
+  
+}
 
 
 
