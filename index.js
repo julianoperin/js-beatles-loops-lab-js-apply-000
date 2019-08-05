@@ -40,7 +40,7 @@ function iLoveTheBeatles(numb) {
     newArr.push("I love the Beatles!") // It will always run one time, whether or not it meets condition bellow...
     numb++;                            // Increment how many times "I love the Beatles" is pushed into newArr...
   } while (numb < 15);
-  return store;
+  return newArr;
   
 }
 
