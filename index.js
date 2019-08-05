@@ -5,11 +5,11 @@ var instruments = ["Guitar", "Bass Guitar", "Lead Guitar", "Drums"];
 theBeatlesPlay(musicians, instruments); 
 
 function theBeatlesPlay(musicians, instruments) {
-  var result = [];                                              //return index from musicians and instruments...
+  var newArray = [];                                              //return index from musicians and instruments...
   for(var i =0; i < musicians.length; i++) {
-    result.push(musicians[i] + " plays " + instruments[i]);
+    newArray.push(musicians[i] + " plays " + instruments[i]);
   }
-  return result;
+  return newArray;
 }
 
 const facts = [
@@ -19,7 +19,7 @@ const facts = [
   "He hated the sound of his own voice"
 ];
 
-function johnLennonFacts() {
-  
+function johnLennonFacts(facts) {
+  last
   
 }
