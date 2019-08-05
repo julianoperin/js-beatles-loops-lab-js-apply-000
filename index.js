@@ -37,4 +37,4 @@ function johnLennonFacts(facts) {
     count++;
   }
   return results;
-}
+}*/
