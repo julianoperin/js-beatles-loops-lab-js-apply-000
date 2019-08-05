@@ -34,7 +34,7 @@ function johnLennonFacts(facts) {
 
 ///////// THIRD PART
 
-function iLoveTheBeatles(numb) {      
+/*function iLoveTheBeatles(numb) {      
   let newArr = [];
   do {
     newArr.push("I love the Beatles!") // It will always run one time, whether or not it meets condition bellow...
@@ -42,7 +42,9 @@ function iLoveTheBeatles(numb) {
   } while (numb < 15);
   return newArr;
   
-}
+} */
+
+
 
 
 
