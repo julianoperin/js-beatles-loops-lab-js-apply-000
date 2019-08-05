@@ -34,12 +34,12 @@ function johnLennonFacts(facts) {
 
 ///////// THIRD PART
 
-function iLoveTheBeatles(i) {
+function iLoveTheBeatles(lov) {
   var store = [];
   do {
     store.push("I love the Beatles!")
-    i++;
-  } while (i < 15);
+    lov++;
+  } while (lov < 15);
   return store;
   
 }
