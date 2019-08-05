@@ -20,6 +20,8 @@ const facts = [
 ];
 
 function johnLennonFacts(facts) {
-  last
+  var result = [];
+  var i = 0;
+  while(i < )
   
 }
